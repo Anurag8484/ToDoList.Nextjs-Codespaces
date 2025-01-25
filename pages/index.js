@@ -61,6 +61,8 @@ export default function Home() {
 
       <footer>
         <Link href="/about">About</Link>
+        <p>Contact me at: <!--email_off-->23f1002560@ds.study.iitm.ac.in<!--/email_off--></p>
+
       </footer>
     </div>
   );
